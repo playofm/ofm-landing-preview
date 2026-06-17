@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+*.command
+clips-rasen.mp4
+clips-stadion.mp4
+.claude/
+backups/
+_source-unused/

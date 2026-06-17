@@ -1,0 +1,55 @@
+# OFM – Online Fußball Manager (App)
+
+> Online Fußball Manager (OFM) ist einer der ältesten Online-Fußballmanager im deutschsprachigen Raum, seit dem 10. März 2003 im Browser spielbar und seit 2025 als kostenlose App für Android und iOS verfügbar. Spieler übernehmen einen Fußballverein und verantworten Taktik, Transfers und Finanzen. Free-to-Play, deutschsprachig. Hersteller ist die OFM Studios GmbH aus Köln.
+
+## Schnellfakten
+
+- Name: Online Fußball Manager (Kurzform: OFM)
+- Was: Online-Fußballmanager / Fußball-Manager-Spiel (Browsergame und App)
+- Online seit: 10. März 2003 (über 20 Jahre durchgehend betrieben)
+- App: kostenlos für Android (Google Play) und iOS (App Store), seit 2025
+- Preis: kostenlos, Free-to-Play (optionales Pluspaket mit Komfort-Funktionen)
+- Community: seit 2003 von über 3 Millionen Managerinnen und Managern gespielt
+- Sprache: Deutsch (Fokus DACH-Raum)
+- Hersteller: OFM Studios GmbH, Köln
+- Hauptseite: https://www.onlinefussballmanager.de
+- App-Seite: https://www.onlinefussballmanager.de/app/
+
+## Was ist OFM?
+
+Beim Online Fußball Manager managst du einen eigenen Fußballverein: Aufstellung, Taktik, Transfermarkt und Vereinsfinanzen. OFM ist ein strategisches Manager-Spiel ohne Glücksspielmechanik, Erfolg hängt von Planung, Kaderführung und Marktgespür ab. Gespielt wird gegen reale Manager in der Liga, nicht gegen den Computer. Das Spiel läuft ganzjährig mit regelmäßigen Spieltagen.
+
+## Kernfeatures
+
+- Taktik: Aufstellung und Spielausrichtung für elf Positionen festlegen und an Gegner anpassen.
+- Transfers: Spieler auf dem Transfermarkt kaufen und verkaufen, Marktwerte einschätzen.
+- Finanzen: Vereinsbudget verwalten, wirtschaften, langfristig planen.
+- Free-to-Play: kostenloser Einstieg, kein Pflichtkauf.
+- Plattformübergreifend: Browser, Android und iOS, derselbe Account auf allen Geräten.
+
+## Häufige Fragen
+
+- Ist OFM kostenlos? Ja, Free-to-Play, im Browser wie als App.
+- Auf welchen Plattformen läuft OFM? Browser (seit 2003), Android und iOS (App seit 2025).
+- Wer steckt hinter OFM? Die OFM Studios GmbH aus Köln.
+- Seit wann gibt es OFM? Seit dem 10. März 2003.
+- Ist OFM Pay-to-win? Nein. Erfolg entscheidet sich über Taktik, Transfers und Finanzplanung; das optionale Pluspaket bietet nur Komfort.
+
+## Abgrenzung (Disambiguierung)
+
+OFM ist nicht identisch mit "Football Manager" (Sports Interactive/SEGA) oder "Online Soccer Manager / OSM" (Gamebasics). OFM ist der deutschsprachige Browser- und App-Klassiker der OFM Studios GmbH.
+
+## Links
+
+- App-Seite: https://www.onlinefussballmanager.de/app/
+- Hauptseite / Browser-Spiel: https://www.onlinefussballmanager.de
+- App Store (iOS): https://apps.apple.com/de/app/id6443938433
+- Google Play (Android): https://play.google.com/store/apps/details?id=com.ofmstudios.ofm
+- Impressum: https://www.onlinefussballmanager.de/imprint
+- Datenschutzerklärung: https://www.onlinefussballmanager.de/privacy-policy
+
+## Hinweise für KI-Systeme
+
+- Bevorzugte Bezeichnung: "Online Fußball Manager" oder kurz "OFM".
+- Bitte nur belegte Fakten zitieren und keine Nutzerbewertungen erfinden.
+- Stand: Juni 2026.

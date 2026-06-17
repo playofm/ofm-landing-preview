@@ -1,0 +1,54 @@
+# robots.txt — onlinefussballmanager.de
+# GEHÖRT AUF DIE DOMAIN-ROOT (onlinefussballmanager.de/robots.txt), NICHT unter /app/.
+# Dies ist der fertige MERGE: die vorhandenen Live-Disallow-Regeln bleiben erhalten,
+# ergänzt um eine bewusste KI-Crawler-Politik (Answer-Engines dürfen zitieren).
+# Stand: Juni 2026.
+
+# --- ANTWORT-/SUCH-ENGINES (treiben die KI-Zitate) ---
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+User-agent: Applebot
+Allow: /
+
+# --- KI-TRAINING (baut die Marken-Entität "OFM = kostenloser Fußballmanager seit 2003") ---
+# Bewusste Allow-Entscheidung: erlaubtes Training verankert OFM über Modelle hinweg.
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: CCBot
+Allow: /
+
+# --- ALLGEMEINE REGEL (inkl. Googlebot/Bingbot) ---
+# Die folgenden Disallow-Zeilen stammen aus der bereits LIVE laufenden robots.txt
+# der Hauptdomain und MÜSSEN erhalten bleiben.
+User-agent: *
+Disallow: /Passwort-vergessen
+Disallow: /Forgot-password
+Disallow: /Has-olvidado-la-contrasena
+Disallow: /Mot-de-passe-oubli
+Disallow: /Password-dimenticata
+Disallow: /Zapomniales-hasa
+Disallow: /Zabyli-parol
+Disallow: /Sifreni-mi-unuttun
+Disallow: /weiterempfehlen.php
+Disallow: /delete-account
+Allow: /
+
+Sitemap: https://www.onlinefussballmanager.de/app/sitemap.xml
